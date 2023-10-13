@@ -1,4 +1,4 @@
-ackage com.example.businesscardapp
+package com.example.businesscardapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
